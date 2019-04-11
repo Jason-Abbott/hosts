@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 09 Feb 2019 at 02:13:57 GMT
+# Last updated: Sun, 31 Mar 2019 at 01:03:07 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -116,6 +116,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 4girlsfingerpaint.org
 0.0.0.0 bagslap.com
 0.0.0.0 ballsack.org
+0.0.0.0 bestgore.com
 0.0.0.0 bestshockers.com
 0.0.0.0 bluewaffle.biz
 0.0.0.0 bottleguy.com
@@ -169,6 +170,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 scrollbelow.com
 0.0.0.0 selfpwn.org
 0.0.0.0 sexitnow.com
+0.0.0.0 shockgore.com
 0.0.0.0 sourmath.com
 0.0.0.0 strawpoii.me
 0.0.0.0 suckdude.com
@@ -269,7 +271,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.whipcrack.org
 0.0.0.0 www.wormgush.com
 0.0.0.0 www.xvideoslive.com
-0.0.0.0 www.y8.com
 0.0.0.0 www.youaresogay.com
 0.0.0.0 www.ypmate.com
 0.0.0.0 www.zentastic.com
@@ -984,7 +985,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 jsonlinecollect.247realmedia.com
 0.0.0.0 js.revsci.net
 0.0.0.0 justtrck.com
-0.0.0.0 keepass.fr
 0.0.0.0 kissmetrics.com
 0.0.0.0 kqzyfj.com
 0.0.0.0 kt4.kliptracker.com
@@ -1908,6 +1908,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 webtrends.townhall.com
 0.0.0.0 whentheyopened.com
 0.0.0.0 windows-tech-help.com
+0.0.0.0 wt.bankmillennium.pl
 0.0.0.0 wtnj.worldnow.com
 0.0.0.0 www.0stats.com
 0.0.0.0 www101.coolsavings.com
@@ -2078,6 +2079,7 @@ ff02::3		ip6-allhosts
 # sites with known trojans, phishing, or other malware
 0.0.0.0 05tz2e9.com
 0.0.0.0 09killspyware.com
+0.0.0.0 0.nextyourcontent.com
 0.0.0.0 11398.onceedge.ru
 0.0.0.0 2006mindfreaklike.blogspot.com	# Facebook trojan
 0.0.0.0 20-yrs-1.info
@@ -2102,7 +2104,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 afantispy.com
 0.0.0.0 afdbande.cn
 0.0.0.0 afisa.nolsab.space
-0.0.0.0 agkn.com
 0.0.0.0 agroeconom.kz
 0.0.0.0 ahror.safin.space
 0.0.0.0 a.kaytri.com
@@ -2129,7 +2130,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 a.openinternetexchange.com
 0.0.0.0 a.phormlabs.com
 0.0.0.0 api.inwemo.com
-0.0.0.0 api.redshell.io
 0.0.0.0 app2.letslowbefast.life
 0.0.0.0 app4com.bestgrade4update.trade
 0.0.0.0 app4.greatmacsoft.tech
@@ -2169,7 +2169,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 badmactogoodmac.space
 0.0.0.0 badmactogoodmac.tech
 0.0.0.0 beloysoff.ru
-0.0.0.0 bestadbid.com
 0.0.0.0 bestreview.site
 0.0.0.0 bgl1dr1-a-fixed.sancharnet.in
 0.0.0.0 bgl1pp1-a-fixed.sancharnet.in
@@ -2294,6 +2293,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 err2.9939118.info
 0.0.0.0 err3.9939118.info
 0.0.0.0 error-warning-alert-critical-5x.com
+0.0.0.0 errx049.icu
 0.0.0.0 etr-interac.com
 0.0.0.0 eviboli576.o-f.com
 0.0.0.0 exasked.com
@@ -2676,6 +2676,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 projectpoi.com
 0.0.0.0 protectionupdatecenter.com
 0.0.0.0 provenfeedback.com
+0.0.0.0 p.ttwitter.com
 0.0.0.0 public2.zz.ha.cn
 0.0.0.0 puush.in
 0.0.0.0 pv.wantsfly.com
@@ -2713,6 +2714,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 scanner.best-protect.info
 0.0.0.0 scottishstuff-online.com	# Canadian bank phishing site
 0.0.0.0 screenaddict.thewhizproducts.com
+0.0.0.0 scribe.ttwitter.com
 0.0.0.0 sc-spyware.com
 0.0.0.0 sea.net.edu.cn
 0.0.0.0 search.buzzdock.com
@@ -2732,6 +2734,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 sedesol.sedesol.gob.mx
 0.0.0.0 seeques.com
 0.0.0.0 segob.gob.mx
+0.0.0.0 settingupdate.yourgoodflashupgradingmain.icu
 0.0.0.0 setupupgrade12.thepointofforcontentingperfect.win
 0.0.0.0 sexymarissa.net
 0.0.0.0 shapado.com
@@ -2934,7 +2937,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.bankofamerica.com.ok.am
 0.0.0.0 www.be4life.ru
 0.0.0.0 www.blenz-me.net
-0.0.0.0 www.brightonclick.com
 0.0.0.0 www.bumerang.cc
 0.0.0.0 www.cablyshaw.com
 0.0.0.0 www.cambonanza.com
@@ -3080,6 +3082,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.zfn5wua2d1.online
 0.0.0.0 www.zoominnovate.online
 0.0.0.0 xbasfbno.info
+0.0.0.0 xen-media.com
 0.0.0.0 xfotosx01.fromru.su
 0.0.0.0 xn--oogle-wmc.com
 0.0.0.0 xponlinescanner.com
@@ -3101,6 +3104,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 zip.er.cz
 0.0.0.0 ztrf.net
 0.0.0.0 zviframe.biz
+0.0.0.0 zzhc.vnet.cn
 #
 
 #
@@ -4274,7 +4278,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 123.fluxads.com
 0.0.0.0 123plays.com
 0.0.0.0 123specialgifts.com
-0.0.0.0 130.211.230.53
 0.0.0.0 15.basebanner.com
 0.0.0.0 17003124.xyz
 0.0.0.0 17updatechwe150218.ru
@@ -4368,6 +4371,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 a-ads.com
 0.0.0.0 a.adstome.com
 0.0.0.0 aads.treehugger.com
+0.0.0.0 a.adtng.com
 0.0.0.0 aams1.aim4media.com
 0.0.0.0 aan.amazon.com
 0.0.0.0 aa-nb.marketgid.com
@@ -4720,6 +4724,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ad.directmirror.com
 0.0.0.0 ad.directrev.com
 0.0.0.0 ad.doganburda.com
+0.0.0.0 ad.doublemax.net
 0.0.0.0 ad.download.net
 0.0.0.0 addserver.mtv.com.tr
 0.0.0.0 addthiscdn.com
@@ -4733,6 +4738,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ad.eporner.com
 0.0.0.0 ad.espn.starwave.com
 0.0.0.0 ad.e-sport.com
+0.0.0.0 ad.ettoday.net
 0.0.0.0 ad.eurosport.com
 0.0.0.0 ade.wooboo.com.cn
 0.0.0.0 adexchangegate.com
@@ -6755,6 +6761,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 andr0id.traffic-smart.com
 0.0.0.0 anephangja.com
 0.0.0.0 anepszava.com
+0.0.0.0 a.net-bt32.stream
 0.0.0.0 anetit.tradedoubler.com
 0.0.0.0 ankieta-online.pl
 0.0.0.0 annuaire-autosurf.com
@@ -6787,6 +6794,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 api.sagent.io
 0.0.0.0 api.shoppingminds.net
 0.0.0.0 api.taboola.com
+0.0.0.0 api.uprivaladserver.net
 0.0.0.0 api.viglink.com
 0.0.0.0 ap.lijit.com
 0.0.0.0 apopt.hbmediapro.com
@@ -6826,7 +6834,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 apple.com.clean-virus-mac.com
 0.0.0.0 apple.com-internet-security-review.info
 0.0.0.0 apple.com-internet-security-review.review
-0.0.0.0 apple.com-onlinesupport.host
 0.0.0.0 apple.com--------scanner.bid
 0.0.0.0 apple.com-----scanner.club
 0.0.0.0 apple.com-supportcenter.pro
@@ -7594,12 +7601,14 @@ ff02::3		ip6-allhosts
 0.0.0.0 clk.atdmt.com
 0.0.0.0 clk.cloudyisland.com
 0.0.0.0 clk.tradedoubler.com
+0.0.0.0 clktrk.com
 0.0.0.0 clkuk.tradedoubler.com
 0.0.0.0 c.lomadee.com
 0.0.0.0 closeoutproductsreview.com
 0.0.0.0 cloudadservers.com
 0.0.0.0 cloudcrown.com
 0.0.0.0 c.l.qq.com
+0.0.0.0 cltrkr.com
 0.0.0.0 clubwinnerz.com
 0.0.0.0 cluster3.adultadworld.com
 0.0.0.0 cluster.adultadworld.com
@@ -7828,6 +7837,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 da.2000888.com
 0.0.0.0 d.admob.com
 0.0.0.0 d.adnetxchange.com
+0.0.0.0 d.adroll.com
 0.0.0.0 d.adserve.com
 0.0.0.0 dads.new.digg.com
 0.0.0.0 d.ads.readwriteweb.com
@@ -7915,6 +7925,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 dinoadserver2.roka.net
 0.0.0.0 dinsalgsvagt.adservinginternational.com
 0.0.0.0 directleads.com
+0.0.0.0 directoffers.go2cloud.org
 0.0.0.0 directpowerrewards.com
 0.0.0.0 directrev.cloudapp.net
 0.0.0.0 dirtyrhino.com
@@ -8532,6 +8543,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 helpint.mywebsearch.com
 0.0.0.0 helpmymacfaster.club
 0.0.0.0 hermes.airad.com
+0.0.0.0 heroesofrpg.com
 0.0.0.0 heti-naplo.com
 0.0.0.0 hetperc.com
 0.0.0.0 hg8dc7bm.com
@@ -9068,6 +9080,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 livingnet.adtech.de
 0.0.0.0 ll.atdmt.com
 0.0.0.0 l.linkpulse.com
+0.0.0.0 lmadvertising.engine.adglare.net
 0.0.0.0 lmqh.ecoencomputer.com
 0.0.0.0 lnads.osdn.com
 0.0.0.0 load.exelator.com
@@ -9337,6 +9350,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 mini.videostrip.com
 0.0.0.0 mirror.pointroll.com
 0.0.0.0 mitobeb.yadozalamom.pw
+0.0.0.0 mizvan.com
 0.0.0.0 mjxads.internet.com
 0.0.0.0 mjx.ads.nwsource.com
 0.0.0.0 mklik.gazeta.pl
@@ -9349,7 +9363,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 mm.chitika.net
 0.0.0.0 mmoframes.com
 0.0.0.0 mmofreegames.online
-0.0.0.0 mmstat.com
 0.0.0.0 mmv.admob.com
 0.0.0.0 mob.adwhirl.com
 0.0.0.0 mobfactory.info
@@ -10135,7 +10148,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 rads.stackoverflow.com
 0.0.0.0 rampagegramar.com
 0.0.0.0 randevumads.com
-0.0.0.0 randki-sex.com
 0.0.0.0 rapidlyserv.com
 0.0.0.0 ravel-rewardpath.com
 0.0.0.0 rb.burstway.com
@@ -10577,7 +10589,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 s.innovid.com
 0.0.0.0 site.adform.com
 0.0.0.0 siteadvisor.com-br.site
-0.0.0.0 siteimproveanalytics.com
 0.0.0.0 siteonline.stream
 0.0.0.0 sitionne.pro
 0.0.0.0 sixapart.adbureau.net
@@ -11040,6 +11051,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 tracking.keywordmax.com
 0.0.0.0 tracking.trackmobistore.com
 0.0.0.0 tracking.trksrv.com
+0.0.0.0 tracking.truthfinder.com
 0.0.0.0 tracking.veoxa.com
 0.0.0.0 track.omgpl.com
 0.0.0.0 track.roularta.adhese.com
@@ -11092,7 +11104,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 trourted.pro
 0.0.0.0 tr.tu.connect.wunderloop.net
 0.0.0.0 trustaffs.com
-0.0.0.0 trustedmaccleaner.com
 0.0.0.0 trustedmacleaner.click
 0.0.0.0 trustedmacleaner.work
 0.0.0.0 trustsitesite.com
@@ -11444,6 +11455,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 wangmeng.baidu.com
 0.0.0.0 wap.casee.cn
 0.0.0.0 warp.crystalad.com
+0.0.0.0 watch-this.live
 0.0.0.0 w.bigames.online
 0.0.0.0 wd.adcolony.com
 0.0.0.0 wdm29.com
